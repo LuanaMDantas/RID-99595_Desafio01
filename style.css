@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+#nav-menu{
+    background-color: #303030;
+    color: #FFFFFF;
+    height: 300px;
+}
+#titulo-nav{
+    margin-left: 50px;
+    padding-top: 115px;
+    
+}
+#texto-nav{
+    margin-left: 50px;
+    margin-top: 30px;
+}
