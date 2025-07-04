@@ -23,6 +23,18 @@
     columns: auto;
 }
 .infor{
-    margin: 50px 0px 50px 100px;
+    margin: 70px 0px 50px 100px;
     font-size: 20px;
-}    
+}
+
+.secaoimagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+
+}
+
+.textosecaoimg{
+    margin-right: 70px;
+}
